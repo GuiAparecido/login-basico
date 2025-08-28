@@ -11,7 +11,7 @@ defined('CONTROL') or die('Acesso negado!');
 </head>
 <body>
 
-    <?php include 'nav.php' ?>
+    <?php require 'nav.php' ?>
 
     <h3>Bem vindo a aplicação!</h3>
    
